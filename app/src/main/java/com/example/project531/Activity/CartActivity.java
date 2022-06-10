@@ -15,7 +15,7 @@ import com.example.project531.Adapter.CartListAdapter;
 import com.example.project531.Helper.ManagementCart;
 import com.example.project531.Interface.ChangeNumberItemsListener;
 import com.example.project531.R;
-//comment
+//comment added
 public class CartActivity extends AppCompatActivity {
     private RecyclerView.Adapter adapter;
     private RecyclerView recyclerViewList;
